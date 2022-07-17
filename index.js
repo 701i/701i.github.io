@@ -1,0 +1,1 @@
+//agregar boton pantalla completa

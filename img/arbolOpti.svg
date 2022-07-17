@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="47.142mm" height="80.475mm" version="1.1" viewBox="0 0 47.142 80.475" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-8.1791 -7.2984)">
+  <g transform="matrix(.44429 0 0 .44429 -58.851 -61.164)">
+   <path d="m256.98 244.88c0 39.955-23.753 53.906-53.053 53.906s-53.053-13.951-53.053-53.906 53.053-90.784 53.053-90.784 53.053 50.829 53.053 90.784z" fill="#f2f2f2" stroke-width=".26458"/>
+   <polygon transform="matrix(.26458 0 0 .26458 118.34 154.09)" points="308.39 393.82 308.45 394.99 293.29 684.59 313.54 684.59 315.97 535 389.5 421.28 316.16 523.76 318.21 397.38 403.67 241.02 318.53 377.55 319.46 320.72 378.36 207.6 319.7 305.69 321.36 203.48 384.43 113.42 321.62 187.41 322.66 0 316.14 248.1 316.67 237.86 252.55 139.7 315.65 257.51 309.67 371.65 309.49 368.62 235.56 265.33 309.27 379.33 308.52 393.6" fill="#3f3d56"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="81.844mm" height="31.764mm" version="1.1" viewBox="0 0 81.844 31.764" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient869">
+   <stop stop-color="#13ff17" offset="0"/>
+   <stop stop-color="#31f6eb" stop-opacity=".83529" offset=".53275"/>
+   <stop stop-color="#cc04fe" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient852" x1="478.66" x2="478.33" y1="-117.52" y2="-239" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient869"/>
+  <linearGradient id="linearGradient861" x1="478.66" x2="478.62" y1="-117.52" y2="-205.23" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient869"/>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-209.71 -57.076)">
+  <g transform="matrix(-.26458 0 0 .26458 374.55 120.11)">
+   <path d="m621.61-157.02a1.4206 1.4206 0 0 1-1.4157-1.3212 50.211 50.211 0 0 0-49.941-46.526c-1.5146 0-3.1056 0.077-4.7292 0.2289a1.4202 1.4202 0 0 1-1.3652-0.7082 59.662 59.662 0 0 0-109.1 12.976 1.4141 1.4141 0 0 1-1.3971 1.025l-0.37773-0.011c-0.1965-0.01-0.39282-0.014-0.59087-0.014a42.078 42.078 0 0 0-41.004 33.223 1.4207 1.4207 0 0 1-1.3902 1.1276h-95.181a1.4207 1.4207 0 0 1 0-2.8414h94.044a44.945 44.945 0 0 1 43.482-34.351 62.503 62.503 0 0 1 113.53-13.333c1.3975-0.1089 2.7684-0.1637 4.0867-0.1637a53.062 53.062 0 0 1 52.775 49.169 1.4206 1.4206 0 0 1-1.3179 1.5168h-0.10093z" fill="url(#linearGradient852)"/>
+   <path d="m604.7-138.8h-233a1.4208 1.4208 0 1 1 0-2.8415h233a1.4208 1.4208 0 1 1 0 2.8415z" fill="url(#linearGradient861)"/>
+   <path d="m428.53-118.2h-78.14a1.4208 1.4208 0 1 1 0-2.8415h78.14a1.4208 1.4208 0 0 1 0 2.8415z" fill="url(#linearGradient852)"/>
+  </g>
+ </g>
+</svg>

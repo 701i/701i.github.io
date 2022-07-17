@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="66.185mm" height="66.185mm" version="1.1" viewBox="0 0 66.185 66.185" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient6127" x1="45.55" x2="90.698" y1="-173.65" y2="-147.64" gradientTransform="translate(3.0066 31.419)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2863"/>
+  <linearGradient id="linearGradient2863">
+   <stop stop-color="#d6a850" offset="0"/>
+   <stop stop-color="#d6a850" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-95.688 -330.31)">
+  <path transform="rotate(191.37 105.54 157.83)" d="m58.805-38.637c0 8.5758-7.8028 16.379-16.379 16.379-8.5758 0-16.379-7.8028-16.379-16.379 0-8.5758 7.8028-16.379 16.379-16.379l3e-6 3e-6c8.5758 0 16.379 7.8028 16.379 16.379z" fill="#d6a850" stroke-opacity="0"/>
+  <g fill="url(#linearGradient6127)">
+   <path transform="matrix(.1867 -.35007 -.33931 -.20766 71.24 336.73)" d="m49.158-118.37 19.646-34.193 19.789 34.11z"/>
+   <path transform="matrix(.37955 -.11552 -.09309 -.38677 106.96 303.85)" d="m49.158-118.37 19.646-34.193 19.789 34.11z"/>
+   <path transform="matrix(.35007 .1867 .20766 -.33931 155.46 305.86)" d="m49.158-118.37 19.646-34.193 19.789 34.11z"/>
+   <path transform="matrix(.11552 .37955 .38677 -.09309 188.33 341.58)" d="m49.158-118.37 19.646-34.193 19.789 34.11z"/>
+   <path transform="matrix(-.1867 .35007 .33931 .20766 186.32 390.08)" d="m49.158-118.37 19.646-34.193 19.789 34.11z"/>
+   <path transform="matrix(-.37955 .11552 .09309 .38677 150.6 422.95)" d="m49.158-118.37 19.646-34.193 19.789 34.11z"/>
+   <path transform="matrix(-.35007 -.1867 -.20766 .33931 102.1 420.94)" d="m49.158-118.37 19.646-34.193 19.789 34.11z"/>
+   <path transform="matrix(-.11552 -.37955 -.38677 .09309 69.23 385.23)" d="m49.158-118.37 19.646-34.193 19.789 34.11z"/>
+  </g>
+ </g>
+</svg>
