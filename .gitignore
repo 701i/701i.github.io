@@ -3,3 +3,9 @@
 *.css.map
 *.sass.map
 *.scss.map
+### ZoneIdentifier ###
+*.bmp:Zone.Identifier
+*.png:Zone.Identifier
+*.jpg:Zone.Identifier
+*.ico:Zone.Identifier
+*.svg:Zone.Identifier
