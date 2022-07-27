@@ -24,6 +24,8 @@ h1, h2, h3
   text-align: center
 .contacto, .certificaciones
   background: rgba(63, 62, 62, 0.179)
+.contacto img
+  filter: drop-shadow(0 0 10px black)
 .certificaciones
   display: flex
   flex-direction: column
@@ -65,6 +67,20 @@ p, span
     transform: rotate(359deg)
   to
     transform: rotate(0deg)
+#cometa
+  width: 20vw
+  position: absolute
+  filter: drop-shadow(0 0 20px white) brightness(0.7)
+  transform: rotate(180deg)
+  animation: caer 5s infinite linear
+  @keyframes caer
+    from
+      transform: translate(-50vw, -50vh)
+      scale: 0.5
+    to
+      transform: translate(50vw, 50vh)
+      scale: 2
+
 #satelite
   width: 20vw
   position: absolute
