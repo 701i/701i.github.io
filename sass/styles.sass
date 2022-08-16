@@ -4,7 +4,7 @@
   margin: 0
   padding: 0
 html
-  overflow-x: hidden !important
+  overflow-x: hidden
 body
   height: 2000px
   background: radial-gradient(circle at bottom, #1B2735 0%, #090A0F 100%)
@@ -29,6 +29,14 @@ h1, h2, h3
   background: rgba(63, 62, 62, 0.179)
 .contacto img
   filter: drop-shadow(0 0 10px black)
+.tools-content
+  display: grid
+  grid-template-columns: repeat(4, auto)
+  grid-template-rows: repeat(2, auto)
+  figure
+    display: flex
+    flex-direction: column
+    align-items: center
 .certificaciones
   display: flex
   flex-direction: column
@@ -165,5 +173,3 @@ p, span
     position: relative
     text-align: center
     bottom: -15%
-
-@import "./carrousel"
