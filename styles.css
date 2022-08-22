@@ -83,6 +83,12 @@ h1, h2, h3 {
     display: flex;
     flex-direction: column;
     align-items: center; }
+.proyectos ul {
+ list-style: none;
+ }
+proyectos ul li a{
+ color: white;
+ }
 
 .certificaciones {
   display: flex;
